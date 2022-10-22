@@ -1,2 +1,3 @@
-# Zuri-Guessing-game
-Javascript number guessing game
+https://replit.com/@Eddywords/Javascript-guessing-game#index.js
+
+
